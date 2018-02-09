@@ -1,3 +1,3 @@
 # Titanic Survivor
 
-This is a final project from online class in Udacity, [UD170 Intro to Data Analyst](https://classroom.udacity.com/courses/ud170/) to analyze titanic survivor by using [Titanic dataset](https://www.kaggle.com/c/titanic) on Kaggle Competition. This project focus on doing Exploratory Data Analysis (EDA) to extract insight on the dataset.
+This project is my first attempt to complete [Titanic Competition](https://www.kaggle.com/c/titanic) from Kaggle. The goal of this project is to predict which passengers survived the sinking of the Titanic according to attributes of the passengers such as name, gender, age, and more.
